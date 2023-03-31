@@ -1,0 +1,9 @@
+[2023-03-31 10:57:12,768] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:57:13,305] [log.py|__console] [line:43] INFO    : 单击，根据对象('id', 'tv.danmaku.bili:id/agree')，操作成功
+[2023-03-31 10:57:24,095] [log.py|__console] [line:43] INFO    : 检查文本，根据对象('id', 'tv.danmaku.bili:id/tab_title')，与期望值[推荐]一致
+[2023-03-31 10:57:24,126] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:57:24,144] [log.py|__console] [line:43] INFO    : 单击，根据对象('id', 'tv.danmaku.bili:id/expand_search')，操作成功
+[2023-03-31 10:57:25,475] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:57:26,544] [log.py|__console] [line:43] INFO    : 输入，根据对象('id', 'tv.danmaku.bili:id/search_src_text'),输入英语口语成功
+[2023-03-31 10:57:28,691] [log.py|__console] [line:49] ERROR   : 检查文本，根据对象('id', 'tv.danmaku.bili:id/tab_title')，与期望值[综合2]不一致
+[2023-03-31 10:57:29,735] [log.py|__console] [line:49] ERROR   : 根据对象('id', 'tv.danmaku.bili:id/tab_title')页面中未能找到20230331105728.png元素,检查属性失败

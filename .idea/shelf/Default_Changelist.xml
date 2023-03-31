@@ -1,0 +1,9 @@
+<changelist name="Default_Changelist" date="1680235907756" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/openpyxl-3.0.9.dist-info/REQUESTED" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/REQUESTED" />
+  </binary>
+</changelist>

@@ -1,0 +1,8 @@
+[2023-03-31 10:54:02,498] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:54:03,038] [log.py|__console] [line:43] INFO    : 单击，根据对象('id', 'tv.danmaku.bili:id/agree')，操作成功
+[2023-03-31 10:54:12,027] [log.py|__console] [line:43] INFO    : 检查文本，根据对象('id', 'tv.danmaku.bili:id/tab_title')，与期望值[推荐]一致
+[2023-03-31 10:54:12,053] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:54:12,069] [log.py|__console] [line:43] INFO    : 单击，根据对象('id', 'tv.danmaku.bili:id/expand_search')，操作成功
+[2023-03-31 10:54:13,026] [log.py|__console] [line:43] INFO    : 成功
+[2023-03-31 10:54:14,094] [log.py|__console] [line:43] INFO    : 输入，根据对象('id', 'tv.danmaku.bili:id/search_src_text'),输入英语口语成功
+[2023-03-31 10:54:16,520] [log.py|__console] [line:49] ERROR   : 检查文本，根据对象('id', 'tv.danmaku.bili:id/tab_title')，与期望值[综合2]不一致
